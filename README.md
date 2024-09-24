@@ -90,3 +90,20 @@ We will begin by emitting a message stating “Deleting Temporary Files”
      
 </p>
 
+<b>Perform Disk Cleanup
+
+We can create a script using the ‘Cleanmgr’ command to remove unused files from the hard drive of our computer. This includes, temp files, internet files, downloaded files, and Recycle Bin files can all be cleared. 
+</b> 
+
+<p align="center">
+<img src="https://i.imgur.com/jihQKkx.png" height="50%" width="75%" />
+     
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/41HpfAd.png" height="50%" width="75%" />
+     
+</p>
+
+
+
